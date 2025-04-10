@@ -9,6 +9,8 @@ This PowerShell script provides a graphical user interface (GUI) to toggle the s
   - A title bar with minimize and close buttons.
   - A status label showing the current state of the service.
   - A toggle button to start or stop the service.
+  ![image](https://github.com/user-attachments/assets/8b5dcdf5-94a7-4f2b-a6e4-6c8f4962eb16)
+
 - **Service Control**:
   - Starts and enables the service if it is stopped.
   - Stops and disables the service if it is running.
